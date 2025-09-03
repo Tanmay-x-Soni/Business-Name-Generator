@@ -22,7 +22,7 @@ const random = () =>{
        
 }
 
-console.log(`Your business company name is ${adjective[random()]} ${shop_name[random()]} ${extra[random()]}.`)
+document.write(`Your business company name is ${adjective[random()]} ${shop_name[random()]} ${extra[random()]}.`)
 
 // you can add this line for browser view.
 
